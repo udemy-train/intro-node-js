@@ -1,0 +1,25 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo Node JS de introducción",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udemy-train/intro-node-js.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs",
+    "node",
+    "js"
+  ],
+  "author": "David Duarte <david.duarte@davdav.tech> (https://ramrider89.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udemy-train/intro-node-js/issues"
+  },
+  "homepage": "https://github.com/udemy-train/intro-node-js#readme"
+}
